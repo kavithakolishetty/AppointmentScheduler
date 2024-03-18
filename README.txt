@@ -17,7 +17,7 @@ The goal of this console application is implement the logic to block 30 mins slo
 - Install Moq 4.20.70
 - Install Nuint3TestAdapter 4.4.2
 - Install Sql Express Database
-
+- Run TableCreation_Script.sql to create database and Table
 Replace connectionString value in App.config
 
 ## Technologies implemented:
